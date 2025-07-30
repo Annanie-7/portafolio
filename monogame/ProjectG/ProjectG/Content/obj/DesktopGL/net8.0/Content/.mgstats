@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/dslej/Documents/monogame/ProjectG/ProjectG/Content/Animals/votio.png","C:/Users/dslej/Documents/monogame/ProjectG/ProjectG/Content/bin/DesktopGL/Content/Animals/votio.xnb","TextureProcessor","Texture2DContent",22742,4194389,0.1697836
+"C:/Users/dslej/Documents/monogame/ProjectG/ProjectG/Content/Escenas/escenario1.png","C:/Users/dslej/Documents/monogame/ProjectG/ProjectG/Content/bin/DesktopGL/Content/Escenas/escenario1.xnb","TextureProcessor","Texture2DContent",8401,1048661,0.1020272
+"C:/Users/dslej/Documents/monogame/ProjectG/ProjectG/Content/Terrain/arbusto1_tarde_alt.png","C:/Users/dslej/Documents/monogame/ProjectG/ProjectG/Content/bin/DesktopGL/Content/Terrain/arbusto1_tarde_alt.xnb","TextureProcessor","Texture2DContent",8096,1048661,0.0164861
+"C:/Users/dslej/Documents/monogame/ProjectG/ProjectG/Content/Terrain/arbusto1_tarde.png","C:/Users/dslej/Documents/monogame/ProjectG/ProjectG/Content/bin/DesktopGL/Content/Terrain/arbusto1_tarde.xnb","TextureProcessor","Texture2DContent",8137,1048661,0.039676
+"C:/Users/dslej/Documents/monogame/ProjectG/ProjectG/Content/Terrain/arbusto1.png","C:/Users/dslej/Documents/monogame/ProjectG/ProjectG/Content/bin/DesktopGL/Content/Terrain/arbusto1.xnb","TextureProcessor","Texture2DContent",7443,1048661,0.0301348

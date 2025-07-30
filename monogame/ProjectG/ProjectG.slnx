@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../core/core.csproj" />
+  <Project Path="ProjectG/ProjectG.csproj" />
+</Solution>

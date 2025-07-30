@@ -1,0 +1,134 @@
+#root {
+  margin: 0 ;
+  text-align: center;
+}
+/* GENERAL */
+
+p{
+  font-size: 14px;
+}
+
+label{
+  font-size: 12px;
+  width: 40%;
+  text-align: right;
+}
+
+h5{
+  margin: 15px;
+  font-size: 15px;
+}
+
+h2{
+  color:  #7e06ba
+}
+
+
+/* Class */
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+.ejemplos{
+  display: inline-block;
+  width:38%;
+  padding: 10px;
+  background-color: transparent;
+  margin-top: 20px;
+  margin: 20px;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.principal {
+  background-color: #f2e9fa;
+  color: black;
+  text-decoration: inherit;
+  font-size: 30px;
+  min-height: 500px;
+  padding-bottom: 30px;
+  align-items: start;
+}
+
+.textStyle{
+  margin: 0 5% 5% 5%;
+  background-color: transparent;
+  border-radius: 5px;
+  color:black;
+}
+
+
+.navigation {
+  border-width: 0 0 3px 0 ;
+  border-style: solid;
+  border-color:#7e06ba;
+  background-color: #f2e9fa;
+  color: white;
+  text-decoration: inherit;
+  font-size: 25px;
+  position: sticky;
+  top: 0;
+}
+
+.navDiv{
+  display:inline-block;
+  width: 11%;
+}
+
+
+/* Formulario */
+
+.botonFormulario{
+  background-color: #888;
+  border-radius: 25px;
+  color: white;
+  font-size: 16px;
+}
+
+.form_wrap{
+  display: flex;
+}
+
+/* MEMORY GAME */
+.grid{
+  display: inline-block;
+  width:100%;
+  padding: 10px;
+  background-color: white;
+  border-width: 3px;
+  border-style: solid;
+  border-color:#7e06ba;
+  border-radius: 10px;
+}
+
+.card {
+  max-width: 30%;
+  background-color: rgb(241, 240, 240);
+  border-width: 3px;
+  border-style: solid;
+  border-color:#7e06ba;
+  border-radius: 10px;
+  margin: 2px;
+}
+
+
+/* Animation */
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
