@@ -23,7 +23,6 @@ h2{
   color:  #7e06ba
 }
 
-
 /* Class */
 
 .logo {
@@ -69,7 +68,7 @@ h2{
   color:black;
 }
 
-
+/*Navegacion */
 .navigation {
   border-width: 0 0 3px 0 ;
   border-style: solid;
@@ -80,11 +79,18 @@ h2{
   font-size: 25px;
   position: sticky;
   top: 0;
+  height:60px;
 }
 
 .navDiv{
   display:inline-block;
   width: 11%;
+  margin-top: .8%;
+  margin-bottom: .8%;
+}
+
+.navButton{
+  color: black;
 }
 
 
